@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1590358377 source:c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\alumno.cpp
+	"Alumno.h"
+
+1590416823 c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\alumno.h
+	<string>
+	<iostream>
+	"Persona.h"
+
+1590416823 c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\persona.h
+	<string>
+	<iostream>
+
+1590419094 source:c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\main.cpp
+	<iostream>
+	"Persona.h"
+	"Profesor.h"
+	"Alumno.h"
+
+1590357287 c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\profesor.h
+	<string>
+	"Persona.h"
+
+1590357513 source:c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\persona.cpp
+	"Persona.h"
+
+1590358377 source:c:\users\monic\documents\monica\clases\tc1030\codigos\polimorfismo\mipolimorfismo\profesor.cpp
+	"Profesor.h"
+
